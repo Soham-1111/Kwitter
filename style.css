@@ -13,6 +13,10 @@ body
 	background-image:url("chat.jpg");
 }
 
+#hello{
+	background-image: url("bubble.png");
+}
+
 .header
 {
 	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
